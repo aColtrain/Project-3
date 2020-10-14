@@ -60,7 +60,6 @@ function changeWatched (title) {
     }
     
 }
-//this is probaly wrong
 
 
 ////////////////////////////////////////////////////////////
