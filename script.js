@@ -47,7 +47,7 @@ function highRatings (rating) {
 
 //Toggle the 'haveWatched' property of the specified movie 
 function changeWatched (title) {
-    console.log("changing status of the movie... ");
+    console.log("changing the status of the movie... ");
     for (var i = 0; i < allMovies.length; i++) {
         if (allMovies[i].title == title) {
             if (allMovies[i].haveWatched == "true") {
